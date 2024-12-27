@@ -1,4 +1,4 @@
-# Tela de Login para DEVS
+# Tela de Login 
 
 ### Esta é uma tela de login minimalista que desenvolvi com HTML e CSS
 
