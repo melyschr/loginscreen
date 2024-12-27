@@ -1,7 +1,6 @@
-# Login Screen for DEVs subscription
+# Tela de Login para DEVS
 
-- This a simple minimalist login screen that I development with HTML and CSS
+### Esta é uma tela de login minimalista que desenvolvi com HTML e CSS
 
-- Acess in:
-
-#### https://
+> Acesse atravez do link: 
+> [Tela de Login](https://melyschr.github.io/loginscreen)
